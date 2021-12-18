@@ -1,0 +1,13 @@
+_id,First_Name,Last_Name,Email_address,Starred_repositories(git_hub),Followers(git_hub),Reputation(stack_overflow),Gold_badges(stack_overflow),Answers(stack_overflow),Certifications(linkedin),Endorsements(linkedin),points_star_rep,points_followers_git,points_reputation_stack,points_gold_badges_stack,points_answers_stack,points_certification_linkedin,points_endorsements_linkedin,total_points
+1,Gael ,Monfils,gael.monfils@gmail.com,15,445,21500,3,15,0,0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,8.0
+2,Pablo,Carreno,pablo.carreno67@hotmail.com,6,200,10200,4,12,4,20,0.0,0.0,0.0,2.0,2.0,1.0,1.0,6.0
+3,Sloane,Stephens,sloane.stephens@gmail.com,19,666,16500,1,11,5,25,2.0,2.0,2.0,0.0,2.0,1.0,1.0,8.0
+4,Belinda,Bencic,belinda.bencic%^@gmail.com,11,821,24200,6,17,0,0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,8.0
+5,James,Korda,james.korda@outlook.com,2,80,5250,0,2,14,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+6,Florian,Mayer,florian.m@gmail.com,6,111,2200,1,1,4,11,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0
+7,Ivan,Lendl,ivan.lendyl@gmail.com,14,161,4500,2,2,7,2,2.0,0.0,0.0,2.0,0.0,1.0,0.0,3.0
+8,Andrey,Rublev,andrey.r12$@gmail.com,17,350,6800,0,4,3,12,2.0,2.0,0.0,0.0,0.0,0.0,1.0,3.0
+9,Mary,Matthews,mary.math@gmail.com,5,99,1450,0,1,1,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10,Wendy,Wong,wendy.w@gmail.com,8,221,17600,1,6,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0
+11,Rachel,Wu,rachelwu@gmail.com,16,345,22400,2,7,3,5,2.0,2.0,2.0,2.0,0.0,0.0,1.0,7.0
+12,Cristian,Desanti,cristiand123@gmail.com,10,499,26600,1,8,0,0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,6.0
